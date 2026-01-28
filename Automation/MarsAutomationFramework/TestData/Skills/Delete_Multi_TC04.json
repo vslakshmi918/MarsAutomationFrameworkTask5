@@ -1,0 +1,18 @@
+[
+  {
+    "Skill": "Java",
+    "Level": "Beginner"
+  },
+  {
+    "Skill": "CSharp",
+    "Level": "Expert"
+  },
+  {
+    "Skill": "JavaScript",
+    "Level": "Intermediate"
+  },
+  {
+    "Skill": "C",
+    "Level": "Intermediate"
+  }
+]
