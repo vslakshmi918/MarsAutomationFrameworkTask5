@@ -1,0 +1,14 @@
+[
+  {
+    "Skill": "Python",
+    "Level": "Expert"
+  },
+  {
+    "Skill": "Java",
+    "Level": "Intermediate"
+  },
+  {
+    "Skill": "CSharp",
+    "Level": "Beginner"
+  }
+]
